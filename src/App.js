@@ -12,7 +12,6 @@ import IntegrationsPage from "./components/IntegrationsPage";
 import AboutPage from "./components/AboutPage";
 import EnterprisePage from "./components/EnterprisePage";
 import ContactPage from "./components/ContactPage";
-import { Analytics } from "@vercel/analytics/react"
 
 
 function App() {
@@ -58,7 +57,6 @@ function App() {
         {/* Footer rendered once for all routes */}
         <Footer />
       </div>
-      <Analytics />
     </Router>
   );
 }
