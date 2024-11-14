@@ -6,13 +6,14 @@ import HeroSection from "./components/HeroSection";
 import FeaturesSection from "./components/FeaturesSection";
 import SupportSection from "./components/SupportSection";
 import SolutionSection from "./components/SolutionSection";
-import AgentSection from "./components/AgentSection";
 import Footer from "./components/Footer"; // Import Footer
 import Pricingpage from "./components/Pricingpage";
 import IntegrationsPage from "./components/IntegrationsPage";
 import AboutPage from "./components/AboutPage";
 import EnterprisePage from "./components/EnterprisePage";
 import ContactPage from "./components/ContactPage";
+import { Analytics } from "@vercel/analytics/react"
+
 
 function App() {
   return (
@@ -57,6 +58,7 @@ function App() {
         {/* Footer rendered once for all routes */}
         <Footer />
       </div>
+      <Analytics />
     </Router>
   );
 }
