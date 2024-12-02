@@ -13,10 +13,10 @@ function ContactPage() {
       <main style={styles.content}>
         <div style={styles.contactInfo}>
           <h3 style={styles.infoTitle}>Yugaa AI</h3>
-          <p style={styles.infoText}>Reach out to us via phone or email:</p>
-          <p style={styles.infoText}>
+          <p style={styles.infoText}>Reach out to us via email:</p>
+          {/* <p style={styles.infoText}>
             <i className="fas fa-phone-alt"></i> (123) 456-7890
-          </p>
+          </p> */}
           <p style={styles.infoText}>
             <i className="fas fa-envelope"></i>{" "}
             <a href="mailto:hello@yugaa.tech" style={styles.link}>
@@ -36,14 +36,14 @@ function ContactPage() {
           </div>
         </div>
 
-        <form style={styles.form}>
+        {/* <form style={styles.form}>
           <input type="text" placeholder="First Name" style={styles.input} required />
           <input type="text" placeholder="Last Name" style={styles.input} required />
           <input type="email" placeholder="Email" style={styles.input} required />
           <input type="tel" placeholder="Phone" style={styles.input} required />
           <textarea placeholder="Your Message" style={styles.textarea} required></textarea>
           <button type="submit" style={styles.submitButton}>Send Message</button>
-        </form>
+        </form> */}
       </main>
 
       <style>

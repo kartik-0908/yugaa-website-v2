@@ -17,7 +17,7 @@ function Navbar() {
           <span className="logo-text">Yugaa AI</span> {/* Company name */}
         </Link>
       </div>
-      
+
       {/* Hamburger icon for mobile */}
       <div className="hamburger" onClick={toggleMenu}>
         ☰
@@ -43,14 +43,16 @@ function Navbar() {
           </ul>
         </li>
       </ul>
-      
+
       {/* Action Buttons */}
       <div className="navbar-actions">
         <button className="navbar-sign-in">
           {/* <Link to="/signin" className="button-link">Sign In</Link> */}
         </button>
-        <button className="navbar-cta">
-          <Link to="/get-started" className="button-link">Get Started with Yugaa AI</Link>
+        <button
+          data-cal-namespace="30min" data-cal-link="yugaa-ai-demo/30min" data-cal-config='{"layout":"month_view"}'
+          className="navbar-cta">
+          Get Started with Yugaa AI
         </button>
       </div>
     </nav>
