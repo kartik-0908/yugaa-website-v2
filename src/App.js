@@ -12,6 +12,7 @@ import IntegrationsPage from "./components/IntegrationsPage";
 import AboutPage from "./components/AboutPage";
 import EnterprisePage from "./components/EnterprisePage";
 import ContactPage from "./components/ContactPage";
+import Privacy from "./components/PrivacyPolicy";
 
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
 
           {/* Contact Us Page Route */}
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/privacy-policy" element={<Privacy />} />
         </Routes>
 
         {/* Footer rendered once for all routes */}
