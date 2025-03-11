@@ -16,18 +16,18 @@ function Footer() {
         {/* Logo Section */}
         <div style={styles.logoSection}>
           <img src="/images/LOGO.png" alt="Company Logo" style={styles.logo} />
-          <span style={styles.logoText}>Yugaa AI</span>
+          <span style={styles.logoText}>Rex AI</span>
         </div>
 
         {/* Social Media Icons Section */}
         <div style={styles.socialIcons}>
-          <a href="https://www.instagram.com/yugaa.ai?igsh=MXQxdjQyMW83ZWc3" target="_blank" rel="noopener noreferrer" style={styles.icon}>
+          <a href="https://www.instagram.com/Rex.ai?igsh=MXQxdjQyMW83ZWc3" target="_blank" rel="noopener noreferrer" style={styles.icon}>
             <FaInstagram />
           </a>
-          <a href="https://x.com/yugaa_ai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
+          <a href="https://x.com/Rex_ai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
             <FaTwitter />
           </a>
-          <a href="https://www.linkedin.com/company/yugaaai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
+          <a href="https://www.linkedin.com/company/Rexai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
             <FaLinkedin />
           </a>
         </div>
@@ -73,8 +73,8 @@ function Footer() {
       {/* Footer Bottom Section */}
       <div style={styles.footerBottom}>
         <hr style={styles.divider} />
-        <p style={styles.footerBottomText}>© 2024 Yugaa AI. All rights reserved.</p>
-        <p style={styles.footerBottomText}>A product of QYTHERION TECHNOLOGIES PRIVATE LIMITED.</p>
+        <p style={styles.footerBottomText}>© 2024 Rex AI. All rights reserved.</p>
+        <p style={styles.footerBottomText}>A product of Sparton Technologies.</p>
       </div>
     
       {/* Responsive Styles */}

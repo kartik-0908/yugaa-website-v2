@@ -92,7 +92,7 @@ const PricingPage = () => {
             }}
               onMouseOver={(e) => e.currentTarget.style.backgroundColor = 'gray'}
               onMouseOut={(e) => e.currentTarget.style.backgroundColor = 'black'}
-              data-cal-namespace="30min" data-cal-link="yugaa-ai-demo/30min" data-cal-config='{"layout":"month_view"}'
+              data-cal-namespace="30min" data-cal-link="Rex-ai-demo/30min" data-cal-config='{"layout":"month_view"}'
             >
               Request Pricing
             </button>

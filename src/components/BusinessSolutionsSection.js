@@ -30,7 +30,7 @@ function BusinessSolutionsSection() {
           <div key={index} style={styles.card}>
             <h3 style={styles.cardTitle}>Sales Automation</h3>
             <p style={styles.cardText}>
-              Unlock new revenue streams by automating the sales process. Yugaa AI assists in lead qualification, product recommendations.
+              Unlock new revenue streams by automating the sales process. Rex AI assists in lead qualification, product recommendations.
             </p>
             <div style={styles.listContainer}>
               <div style={styles.listItem}>

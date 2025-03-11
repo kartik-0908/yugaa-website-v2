@@ -126,7 +126,7 @@ function AgentSection() {
       <div style={styles.headingContainer} data-aos="fade-right">
         <h2 className="heading" style={styles.heading}>AI Solutions for Every Industry</h2>
         <p className="subheading" style={styles.subheading} data-aos="fade-left">
-          Yugaa AI transforms businesses across industries, from eCommerce to healthcare, by
+          Rex AI transforms businesses across industries, from eCommerce to healthcare, by
           automating customer interactions and sales processes.
         </p>
       </div>

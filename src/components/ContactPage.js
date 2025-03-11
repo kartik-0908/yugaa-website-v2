@@ -12,15 +12,15 @@ function ContactPage() {
 
       <main style={styles.content}>
         <div style={styles.contactInfo}>
-          <h3 style={styles.infoTitle}>Yugaa AI</h3>
+          <h3 style={styles.infoTitle}>Rex AI</h3>
           <p style={styles.infoText}>Reach out to us via email:</p>
           {/* <p style={styles.infoText}>
             <i className="fas fa-phone-alt"></i> (123) 456-7890
           </p> */}
           <p style={styles.infoText}>
             <i className="fas fa-envelope"></i>{" "}
-            <a href="mailto:hello@yugaa.tech" style={styles.link}>
-              hello@yugaa.tech
+            <a href="mailto:hello@Rex.tech" style={styles.link}>
+              hello@Rex.tech
             </a>
           </p>
           <div style={styles.socialIcons}>
@@ -30,7 +30,7 @@ function ContactPage() {
             <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" style={styles.icon}>
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="https://www.linkedin.com/company/yugaaai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
+            <a href="https://www.linkedin.com/company/Rexai" target="_blank" rel="noopener noreferrer" style={styles.icon}>
               <i className="fab fa-linkedin"></i>
             </a>
           </div>
