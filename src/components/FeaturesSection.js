@@ -36,7 +36,7 @@ function FeaturesSection() {
         {renderFeatureItem(
           "fas fa-puzzle-piece",
           "Developer-Friendly API",
-          "Seamlessly integrate Rex AI into your systems with our flexible API and effortless setup.",
+          "Seamlessly integrate Yugaa AI into your systems with our flexible API and effortless setup.",
           'animate__animated animate__fadeInLeft',
           'delay-3'
         )}

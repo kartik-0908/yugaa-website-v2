@@ -14,7 +14,7 @@ function Navbar() {
       <div className="navbar-logo">
         <Link to="/" className="logo-link">
           <img src="/images/LOGO.png" alt="Logo" className="logo-image" />
-          <span className="logo-text">Rex AI</span> {/* Company name */}
+          <span className="logo-text">Yugaa AI</span> {/* Company name */}
         </Link>
       </div>
 
@@ -52,7 +52,7 @@ function Navbar() {
         <button
           data-cal-namespace="30min" data-cal-link="Rex-ai-demo/30min" data-cal-config='{"layout":"month_view"}'
           className="navbar-cta">
-          Get Started with Rex AI
+          Get Started with Yugaa AI
         </button>
       </div>
     </nav>

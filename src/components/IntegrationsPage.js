@@ -27,7 +27,7 @@ const IntegrationsPage = () => {
           Effortless Integration with <br /> Your Tools
         </h1>
         <p style={{ fontSize: '1rem', color: '#666', maxWidth: '700px', margin: '0 auto 30px' }}>
-          Connect Rex AI’s voice and chat agents to your CRM, helpdesk,<br /> and more for a seamless customer experience.
+          Connect Yugaa AI’s voice and chat agents to your CRM, helpdesk,<br /> and more for a seamless customer experience.
         </p>
         <p style={{ fontSize: '1rem', fontWeight: 'bold', color: '#333' }}>Integration Options</p>
       </section>

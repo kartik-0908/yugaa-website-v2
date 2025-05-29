@@ -5,7 +5,7 @@ function Privacy() {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-gray-100">
       <main className="container mx-auto px-4 py-12">
         <h1 className="text-4xl md:text-5xl font-bold mb-8 text-white text-center">
-          Privacy Policy for Rex AI
+          Privacy Policy for Yugaa AI
         </h1>
 
         <div className="bg-gray-900/50 backdrop-blur-sm rounded-xl p-6 md:p-8 mb-8 shadow-xl max-w-4xl mx-auto">
@@ -20,7 +20,7 @@ function Privacy() {
                 1. Introduction
               </h2>
               <p className="text-gray-300 leading-relaxed">
-                Welcome to Rex AI ("we", "our", or "us"), a product of Sparton Technologies. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our AI-powered customer support service.
+                Welcome to Yugaa AI ("we", "our", or "us"), a product of Sparton Technologies. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our AI-powered customer support service.
               </p>
             </div>
 

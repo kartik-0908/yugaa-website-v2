@@ -16,7 +16,7 @@ function Footer() {
         {/* Logo Section */}
         <div style={styles.logoSection}>
           <img src="/images/LOGO.png" alt="Company Logo" style={styles.logo} />
-          <span style={styles.logoText}>Rex AI</span>
+          <span style={styles.logoText}>Yugaa AI</span>
         </div>
 
         {/* Social Media Icons Section */}
@@ -73,7 +73,7 @@ function Footer() {
       {/* Footer Bottom Section */}
       <div style={styles.footerBottom}>
         <hr style={styles.divider} />
-        <p style={styles.footerBottomText}>© 2024 Rex AI. All rights reserved.</p>
+        <p style={styles.footerBottomText}>© 2024 Yugaa AI. All rights reserved.</p>
         <p style={styles.footerBottomText}>A product of Sparton Technologies.</p>
       </div>
     

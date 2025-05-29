@@ -23,7 +23,7 @@ function EnterprisePage() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
         >
-          Rex AI empowers large organizations with cutting-edge, autonomous AI agents that handle customer engagement, sales, and support across both voice and chat. Designed to operate independently 24/7, our AI agents provide exceptional scalability, efficiency, and customer satisfaction without the overhead of additional staffing.
+          Yugaa AI empowers large organizations with cutting-edge, autonomous AI agents that handle customer engagement, sales, and support across both voice and chat. Designed to operate independently 24/7, our AI agents provide exceptional scalability, efficiency, and customer satisfaction without the overhead of additional staffing.
         </motion.p>
 
         {/* Why Choose Section */}
@@ -33,14 +33,14 @@ function EnterprisePage() {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, ease: "easeOut", delay: 0.4 }}
         >
-          Why Choose Rex AI for Your Enterprise?
+          Why Choose Yugaa AI for Your Enterprise?
         </motion.h2>
         <motion.ul style={styles.list} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.8, delay: 0.6 }}>
           <li style={styles.listItem}>
             <strong>Maximize Efficiency, Minimize Costs:</strong> Our autonomous AI agents reduce operational costs by managing complex interactions without human intervention, allowing your team to focus on strategic tasks.
           </li>
           <li style={styles.listItem}>
-            <strong>Multi-Channel Engagement:</strong> Rex AI consolidates voice and chat capabilities into one platform, delivering consistent, high-quality interactions across channels to meet your customers wherever they are.
+            <strong>Multi-Channel Engagement:</strong> Yugaa AI consolidates voice and chat capabilities into one platform, delivering consistent, high-quality interactions across channels to meet your customers wherever they are.
           </li>
           <li style={styles.listItem}>
             <strong>Replicate Proven Success:</strong> Transform your best-performing strategies into AI-driven playbooks that continuously learn and optimize, driving conversions and support excellence at scale.
@@ -60,20 +60,20 @@ function EnterprisePage() {
           Seamless Integration & Easy Onboarding
         </motion.h2>
         <motion.p style={styles.paragraph} initial={{ opacity: 0, x: 50 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.8, ease: "easeOut", delay: 1.2 }}>
-          Switching to Rex AI is effortless. Our dedicated team works closely with you to integrate our platform into your existing workflows, ensuring a smooth transition with minimal disruption.
+          Switching to Yugaa AI is effortless. Our dedicated team works closely with you to integrate our platform into your existing workflows, ensuring a smooth transition with minimal disruption.
         </motion.p>
         
         <motion.ul style={styles.list} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.8, delay: 1.4 }}>
           <li style={styles.listItem}><strong>Phase 1: Pilot Program</strong></li>
           <li style={styles.listItem}>- Discovery Call: Understand your current workflows and enterprise goals.</li>
-          <li style={styles.listItem}>- Proposal & Implementation Strategy: Custom-fit Rex AI to your needs.</li>
+          <li style={styles.listItem}>- Proposal & Implementation Strategy: Custom-fit Yugaa AI to your needs.</li>
           <li style={styles.listItem}>- Pilot Launch: Test a sample with your team for feedback.</li>
           <li style={styles.listItem}>- Ongoing Optimization: Weekly syncs with your dedicated account manager.</li>
           <li style={styles.listItem}><strong>Phase 2: Full Rollout</strong></li>
           <li style={styles.listItem}>- Transition Strategy: Reflect on pilot outcomes and prepare for full deployment.</li>
           <li style={styles.listItem}>- Full System Integration: Seamless connection with your enterprise tech stack.</li>
           <li style={styles.listItem}>- Custom Feature Development: Tailored features to maximize effectiveness.</li>
-          <li style={styles.listItem}>- Comprehensive Training: Onboard your team with Rex AI’s capabilities.</li>
+          <li style={styles.listItem}>- Comprehensive Training: Onboard your team with Yugaa AI’s capabilities.</li>
           <li style={styles.listItem}>- Dedicated Support: Hands-on assistance and ongoing account management.</li>
         </motion.ul>
 
@@ -87,7 +87,7 @@ function EnterprisePage() {
           Enterprise-Grade Security and Compliance
         </motion.h2>
         <motion.p style={styles.paragraph} initial={{ opacity: 0, x: -50 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.8, ease: "easeOut", delay: 2 }}>
-          Rex AI is committed to upholding the highest standards in data security and compliance. Your customer data is protected with stringent security protocols, ensuring privacy and trust.
+          Yugaa AI is committed to upholding the highest standards in data security and compliance. Your customer data is protected with stringent security protocols, ensuring privacy and trust.
         </motion.p>
 
         {/* Call-to-Action */}

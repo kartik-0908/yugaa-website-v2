@@ -75,7 +75,7 @@ function SupportSection() {
       >
         <h1 style={styles.heading}>AI Solutions for Sales <br /> and Customer Support</h1>
         <p style={styles.subheading}>
-          Rex AI’s voice and chat agents enable lifelike,<br /> real-time interactions across your sales and support channels.
+          Yugaa AI’s voice and chat agents enable lifelike,<br /> real-time interactions across your sales and support channels.
         </p>
         <button style={styles.button}>Explore Product</button>
       </motion.div>
