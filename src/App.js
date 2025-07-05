@@ -1,4 +1,3 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar";
@@ -13,6 +12,7 @@ import AboutPage from "./components/AboutPage";
 import EnterprisePage from "./components/EnterprisePage";
 import ContactPage from "./components/ContactPage";
 import Privacy from "./components/PrivacyPolicy";
+import TestimonialSection from "./components/Testimonial";
 
 
 function App() {
@@ -28,10 +28,10 @@ function App() {
             element={
               <>
                 <HeroSection />
+                <TestimonialSection/>
                 <FeaturesSection />
                 <SupportSection />
                 <SolutionSection />
-                {/* <AgentSection /> */}
               </>
             }
           />
